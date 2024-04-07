@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+* {
+    font-family: "Nunito", sans-serif;
+}
+
+
+
+header{
+    background-color: #191f36;
+}
+#home{
+    background-color: #191f36;
+    padding-top: 120px;
+}
+.fa-linkedin{
+    color: aliceblue;
+}
+.fa-envelope{
+    color: red;
+}
+.fa-facebook{
+    color: aliceblue;
+}
+.fa-instagram{
+    color: rgb(254, 43, 184);
+}
+#about{
+    float: left; 
+    width: 100%;
+    background-color: #262b40;
+}
+.about{
+    float: left;
+}
+.about-info{
+    float: left;
+}
+#experience{
+    float: left; 
+    width: 100%;
+    background-color: #191f36;
+}
+#services{
+    float: left; 
+    width: 100%;
+    background-color: #262b40;
+}
+#portfolio{
+    float: left; 
+    width: 100%;
+    background-color: #191f36;
+}
+#experience .row{
+    margin-left: 1rem;
+}
+#contact{
+    float: left; 
+    width: 100%;
+    background-color: #262b40;
+}
+.form-group button{
+    width: 20%;
+}
+.address{
+    float: left;
+}
+footer{
+    background-color: #191f36;
+}
+footer p{
+    letter-spacing: 0.5rem;
+}
